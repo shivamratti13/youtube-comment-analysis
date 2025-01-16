@@ -1,0 +1,8 @@
+streamlit
+isodate
+google-api-python-client 
+pandas 
+transformers 
+torch 
+plotly-express
+scikit-learn

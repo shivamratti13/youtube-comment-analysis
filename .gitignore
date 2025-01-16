@@ -1,0 +1,8 @@
+.env
+model/
+yt/
+sample.py
+__pycache__/
+.ipynb_checkpoints/
+fine_tuned_model/
+get_yt_comments.py
